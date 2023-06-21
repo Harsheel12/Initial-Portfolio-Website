@@ -139,6 +139,9 @@ header {
     margin-right: 50px;
     font-size: 30px;
     color: #0F4C75;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0;
 }
 
 .backendItems {
@@ -147,6 +150,9 @@ header {
     margin-right: 50px;
     font-size: 30px;
     color: #0F4C75;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0;
 }
 
 .otherItems {
@@ -155,4 +161,7 @@ header {
     margin-right: 50px;
     font-size: 30px;
     color: #0F4C75;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0;
 }
