@@ -165,3 +165,50 @@ header {
     font-weight: bold;
     padding: 20px 0;
 }
+
+.projects {
+    position: relative;
+    background-color: #0F4C75;
+    width: 100vw;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.projects h1 {
+    font-size: 70px;
+    color: #D9D9D9;
+    font-weight: bold;
+    text-align: center;
+}
+
+.projects .row {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.projects .column {
+    width: 500px;
+    height: 400px;
+    background-color: #D9D9D9;
+    margin: 20px;
+}
+
+.projectDescription {
+    position: relative;
+    height: 200px;
+    margin-top: 200px;
+}
+
+.projectDescription h2{
+    position: relative;
+    color: #0F4C75;
+    text-align: center;
+    
+}
+
+.projectDescription p {
+    font-size: 15px;
+    padding: 0px 20px 10px 20px;
+    text-align: left;
+}
